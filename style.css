@@ -302,6 +302,10 @@ section {
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
+.details-container p span
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 .section-container {
   gap: 4rem;
@@ -430,3 +434,5 @@ footer {
 footer p {
   text-align: center;
 }
+
+
