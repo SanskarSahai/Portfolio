@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(234, 210, 168);
 }
 
 html {
@@ -66,6 +67,11 @@ a:hover {
   cursor: default;
 }
 
+.text-container p
+{
+  font-family:  'Montserrat', sans-serif;
+  font-size: 18px;
+}  
 /* HAMBURGER MENU */
 
 #hamburger-nav {
@@ -206,6 +212,17 @@ section {
   gap: 1rem;
 }
 
+#socials-container img
+{
+  filter: grayscale(100%);
+  transition: grayscale 0.5s;
+}
+
+#socials-container img:hover
+{
+  filter: grayscale(0%);
+}
+
 /* ICONS */
 
 .icon {
@@ -242,7 +259,7 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
-  color: white;
+  color: rgb(234, 210, 168);
 }
 
 .btn-color-1:hover {
@@ -254,7 +271,7 @@ section {
 }
 
 .btn-color-2:hover {
-  border: rgb(255, 255, 255) 0.1rem solid;
+  border: rgb(234, 210, 168) 0.1rem solid;
 }
 
 .btn-container {
@@ -414,6 +431,17 @@ article .icon {
 
 .contact-info-container p {
   font-size: larger;
+}
+
+.contact-info-container img
+{
+  filter: grayscale(100%);
+  transition: grayscale 0.5s;
+}
+
+.contact-info-container img:hover
+{
+  filter: grayscale(0%);
 }
 
 .contact-icon {
