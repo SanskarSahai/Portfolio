@@ -14,7 +14,7 @@ Welcome to my software developer portfolio! This repository showcases my skills,
 
 I'm Sanskar Sahai, a passionate and results-driven B.Tech student in Electronics and Communication Engineering (SRMCEM, Lucknow, 2021–2025). I specialize in Python, Java, C, Web Development, AI, and Robotics, and I’m constantly seeking opportunities to learn, innovate, and build impactful solutions.
 
-- **LinkedIn:** [Sanskar Sahai](www.linkedin.com/in/sanskar-sahai)
+- **LinkedIn:** [Sanskar Sahai](https://www.linkedin.com/in/sanskar-sahai-4544b222b/)
 - **Portfolio:** [Sanskar Sahai](https://sanskarsahai.netlify.app/)
 - **Email:** [Sanskar Sahai](sanskarsahai@gmail.com)
 
@@ -55,7 +55,7 @@ Here are some of the skills and technologies I specialize in:
 
 You can reach out to me through the following channels:
 
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/sanskar-sahai)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sanskar-sahai-4544b222b/)
 - **Portfolio:** [Portfolio Website](https://sanskarsahai.netlify.app/)
 - **Email:** sanskarsahai@email.com
 
